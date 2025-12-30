@@ -1,0 +1,12 @@
+*{
+background-color: black;
+font-style: italic;
+font-size: larger;
+color: blanchedalmond;
+}
+h1{
+    border-radius: 0cap;
+    border-style: double;
+    border: 2px,solid ;
+    border-color: brown;
+}
